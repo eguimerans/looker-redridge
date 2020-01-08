@@ -18,4 +18,5 @@
 #   }
 # }
 
-include: "//ernesto-master/*"
+include: "//ernesto-master/*.model"
+include: "//ernesto-master/views/*"
