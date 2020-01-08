@@ -1,4 +1,4 @@
-connection: "vista-dev-sandbox"
+#connection: "vista-dev-sandbox"
 
 #include: "*.view.lkml"                       # include all views in this project
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
@@ -17,3 +17,5 @@ connection: "vista-dev-sandbox"
 #     sql_on: ${users.id} = ${orders.user_id} ;;
 #   }
 # }
+
+include: "//ernesto-master/*"
