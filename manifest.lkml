@@ -9,3 +9,8 @@ project_name: "redridge"
      value: "redridge"
    }
  }
+
+
+constant: pmc {
+  value: "redridge"
+}
