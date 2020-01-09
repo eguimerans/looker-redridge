@@ -4,12 +4,12 @@ project_name: "redridge"
 # # on this instance with include: statements
 #
 
-# local_dependency: {
-#   project: "ernesto-master"
-#   override_constant: pmc {
-#     value: "redridge"
-#   }
-# }
+ local_dependency: {
+   project: "ernesto-master"
+   override_constant: pmc {
+     value: "redridge"
+   }
+ }
 
 
 #constant: pmc {
