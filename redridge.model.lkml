@@ -18,5 +18,6 @@
 #   }
 # }
 
-include: "//ernesto-master/*.model"
+
+include: "//ernesto-master/lease.model"
 include: "//ernesto-master/views/*"
